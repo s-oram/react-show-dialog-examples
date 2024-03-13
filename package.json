@@ -11,6 +11,8 @@
     "format": "pnpm exec prettier --write ."
   },
   "dependencies": {
+    "@s-oram/react-show-dialog": "0.0.19",
+    "clsx": "^2.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

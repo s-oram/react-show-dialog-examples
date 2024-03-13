@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Lockfiles - We don't need them for this example project
+package-lock.json
+pnpm-lock.yaml
